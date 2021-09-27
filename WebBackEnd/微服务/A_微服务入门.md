@@ -566,7 +566,7 @@ Nacos 是 Spring Cloud Alibaba 的组件，而 Spring Cloud Alibaba 也遵循 Sp
 spring:
   cloud:
     nacos:
-      server-addr: halo:8848
+      server-addr: n:8848
 ```
 
 > 这里使用的是远程服务器的地址
